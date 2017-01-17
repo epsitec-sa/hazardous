@@ -25,6 +25,7 @@
     "mocha": "^3.2.0"
   },
   "dependencies": {
-    "asar": "^0.13.0"
+    "asar": "^0.13.0",
+    "electron-patch-fs": "^1.0.3"
   }
 }
