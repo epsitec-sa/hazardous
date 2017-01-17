@@ -1,0 +1,30 @@
+{
+  "name": "hazardous",
+  "version": "0.1.0",
+  "description": "Fix electron path for asar.unpacked support.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epsitec-sa/hazardous.git"
+  },
+  "keywords": [
+    "asar",
+    "electron"
+  ],
+  "author": "Mathieu Schroeter <schroeter@epsitec.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epsitec-sa/hazardous/issues"
+  },
+  "homepage": "https://github.com/epsitec-sa/hazardous#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "asar": "^0.13.0"
+  }
+}
