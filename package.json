@@ -1,7 +1,7 @@
 {
   "name": "hazardous",
   "version": "0.1.0",
-  "description": "Fix electron path for asar.unpacked support.",
+  "description": "Overload Electron path module for asar.unpacked support",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha test/**/*.spec.js"
