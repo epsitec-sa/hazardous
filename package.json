@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "asar": "^0.13.0",
+    "callsite": "^1.0.0",
     "electron-patch-fs": "^1.0.3"
   }
 }
