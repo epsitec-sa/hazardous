@@ -36,7 +36,7 @@ a `node_modules`, it makes sense to use the unpack way because the `spawn`
 and `exec` functions of `child_process` are aware of `.asar.unpacked`. Then
 your executable can be used transparently.
 
-## Hazardious workaround
+## Hazardous workaround
 
 The idea is to overload three functions of `path` (`join ()`, `normalize ()`
 and `resolve ()`).
