@@ -1,6 +1,6 @@
 {
   "name": "hazardous",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Overload Electron path module for asar.unpacked support",
   "main": "lib/index.js",
   "scripts": {
