@@ -22,7 +22,8 @@
   "homepage": "https://github.com/epsitec-sa/hazardous#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^3.2.0"
+    "mocha": "^3.2.0",
+    "xcraft-dev-rules": "^0.1.17"
   },
   "dependencies": {
     "asar": "^0.13.0",
